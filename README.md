@@ -1,2 +1,2 @@
 # test
-testng example
+testng example use full
